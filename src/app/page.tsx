@@ -17,7 +17,7 @@ export default function Home() {
       </div>
 
       {/* Content Overlay */}
-      <div className="relative z-10 flex flex-col items-center justify-between h-full text-center px-4 pt-20 pb-20">
+      <div className="relative z-10 flex flex-col items-center justify-between h-full text-center px-4 pt-10 pb-8">
         <div className="space-y-4">
           <h1 className="text-6xl md:text-8xl font-bold tracking-tighter">CodeDream</h1>
           <p className="text-xl md:text-2xl font-light text-neutral-300 tracking-wide">
