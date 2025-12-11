@@ -8,6 +8,9 @@
     "start": "next start",
     "lint": "eslint"
   },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "@react-three/drei": "^10.7.7",
