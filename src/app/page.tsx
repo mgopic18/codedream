@@ -39,6 +39,11 @@ export default function Home() {
           <a href="mailto:info@codedream.com.au" className="text-neutral-500 hover:text-white transition-colors text-sm font-mono">
             info@codedream.com.au
           </a>
+
+          <div className="flex gap-6 mt-8 text-xs text-neutral-600 font-mono">
+            <a href="/terms" className="hover:text-neutral-400 transition-colors">Terms of Service</a>
+            <a href="/privacy" className="hover:text-neutral-400 transition-colors">Privacy Policy</a>
+          </div>
         </div>
       </div>
     </div>
